@@ -14,7 +14,7 @@ colourb=Math.floor(Math.random()*256);
 
 function preload()
 {
-    dogcatimage=loadImage("car.jfif");
+    dogcatimage=loadImage("dog_cat.jpg");
 }
 
 function draw()
